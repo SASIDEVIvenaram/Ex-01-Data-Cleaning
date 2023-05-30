@@ -43,23 +43,36 @@ df.head()
 
 df.info()
 df.isnull().sum()
+
+
 ```
-# OUPUT:
+
+# OUTPUT:
+
 ## Loan_data.csv
+
 ## DATA
 ![d1](https://user-images.githubusercontent.com/118707332/226185889-c6b8a63f-4b9d-41ca-b676-1408e6cc9733.png)
+
 # NON NULL BEFORE
+
 ## df.info
 ![d2](https://user-images.githubusercontent.com/118707332/226186003-6a845a7b-6638-4c30-ae46-5c5d21cb542e.png)
+
 # Mode
 ![d3](https://user-images.githubusercontent.com/118707332/226186126-603daa80-35c9-473b-a88c-e1410aa2311a.png)
+
 # Mean
 ![d4](https://user-images.githubusercontent.com/118707332/226186191-2c1195de-b113-4693-9313-938ed955a602.png)
+
 # Median
 ![d5](https://user-images.githubusercontent.com/118707332/226186373-43bcfbd9-9956-4c25-b0ac-88054f76bd70.png)
-# NON NULL AFTER'
+
+# NON NULL AFTER
+
 ## df.info()
 ![d6](https://user-images.githubusercontent.com/118707332/226186585-f1b542f2-747e-43ee-a454-3e11af01aed1.png)
+
 ## df.isnull().sum()
 ![d8](https://user-images.githubusercontent.com/118707332/226186642-96862123-c945-4210-8836-58ac28824a03.png)
 
